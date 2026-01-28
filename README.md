@@ -15,7 +15,13 @@
 > 
 ## Current Projects
 
-- 🚀 **[Name](project link)** - brief description
+- 🚀 **[WedSpace](private)** - weddings meet brands, helping hosts monetize their big day
+- 👠 **[MyVirtualCloset](public)** - visualize yourself in the clothes you're thinking of purchasing
+- 💵 **[WhatThePay](public)** - know what that job is worth on LinkedIn, match relevance to your resume and more
+- 🔬 **[IsThisTrue](public)** - community notes for the internet. Highlight anything and learn the truth behind it
+- 💎 **[Invest.me](public)** - your personal financial advisor
+- 🏠 **[Builderly](public)** - organizing the unorganized home renovation and design market
+- 🦉 **[SecondLife](public)** - their experiences, our learnings. A platform for gig work for the elderly
 
 ### Legacy Work
 - 🔄 **[Ajna](https://github.com/yugenflow/Ajna)** - face detection and feature enhancement using super resolution 
