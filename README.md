@@ -15,13 +15,13 @@
 ## Current Projects
 
 - 🚀 **[WedSpace](private)** - weddings meet brands, helping hosts monetize their big day
-- 👠 **[MyVirtualCloset](public)** - visualize yourself in the clothes you're thinking of purchasing
 - 💵 **[WhatThePay](public)** - get salary for a job posting on LinkedIn, match role relevance to your resume, get job posting alerts via SMS
 - 🔬 **[IsThisTrue](public)** - community notes for the internet. Highlight anything and learn the truth behind it
 - 💎 **[Invest.me](public)** - your personal financial advisor
 - 🏠 **[Builderly](public)** - organizing the unorganized home renovation and design market
-- 🦉 **[SecondLife](public)** - their experiences, our learnings. A platform for gig work for the elderly
 - 📲 **[Tele2Cart](public)** - place your QCom orders from whatsapp/telegram
+- 👠 **[MyVirtualCloset](public)** - visualize yourself in the clothes you're thinking of purchasing
+- 🦉 **[SecondLife](public)** - their experiences, our learnings. A platform for gig work for the elderly
 - 👑 **[MyRoyalPortrait](public)** - get your own royal portrait delivered to your doorstep, comes in various sizes
 
 ### Legacy Work
