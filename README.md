@@ -22,6 +22,8 @@
 - 💎 **[Invest.me](public)** - your personal financial advisor
 - 🏠 **[Builderly](public)** - organizing the unorganized home renovation and design market
 - 🦉 **[SecondLife](public)** - their experiences, our learnings. A platform for gig work for the elderly
+- 📲 **[Tele2Cart](public)** - place your QCom orders from whatsapp/telegram
+
 
 ### Legacy Work
 - 🔄 **[Ajna](https://github.com/yugenflow/Ajna)** - face detection and feature enhancement using super resolution 
