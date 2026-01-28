@@ -16,13 +16,13 @@
 
 - 🚀 **[WedSpace](private)** - weddings meet brands, helping hosts monetize their big day
 - ⭐ **[AfterLife](public)** - those we love never go anywhere
-- 💵 **[WhatThePay](public)** - get salary for a job posting on LinkedIn, match role relevance to your resume, get job posting alerts via SMS
 - 💎 **[Invest.me](public)** - your personal financial advisor
-- 🏠 **[Builderly](public)** - organizing the unorganized home renovation and design market
 - 📲 **[Tele2Cart](public)** - place your QCom orders from whatsapp/telegram
+- 💵 **[WhatThePay](public)** - get salary for a job posting on LinkedIn, match role relevance to your resume, get job posting alerts via SMS
+- 🏠 **[Builderly](public)** - organizing the unorganized home renovation and design market
 - 👠 **[MyVirtualCloset](public)** - visualize yourself in the clothes you're thinking of purchasing
 - 🦉 **[SecondLife](public)** - their experiences, our learnings. A platform for gig work for the elderly
-- 👑 **[MyRoyalPortrait](public)** - get your own royal portrait delivered to your doorstep, comes in various sizes
+- 👑 **[PaintRoyale](public)** - get your own royal portrait delivered to your doorstep, comes in various sizes
 
 ### Legacy Work
 - 🔄 **[Ajna](https://github.com/yugenflow/Ajna)** - face detection and feature enhancement using super resolution 
