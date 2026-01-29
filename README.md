@@ -37,7 +37,7 @@
 
 ## What I'm Doing
 
-- **Living in the future** - Learning and building products to make live easier for everyone
+- **Living in the future** - Learning and building products to make life easier for everyone
 - **Writing about AI workflows** - Sharing my learnings on [xyz]({link})
 - **Rapid prototyping** - Full apps in days, not months
 
