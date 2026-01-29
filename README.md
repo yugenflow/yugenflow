@@ -17,7 +17,7 @@
 - 🚀 **[WedSpace](private)** - weddings meet brands, helping hosts monetize their big day
 - 💎 **[Invest.me](public)** - your personal financial advisor
 - ⭐ **[AfterLife](public)** - those we love never go anywhere
-- 💵 **[WhatThePay](public)** - get salary for a job posting on LinkedIn, match role relevance to your resume, get job posting alerts via SMS
+- 💵 **[WhatThePay](public)** - get salary info for job postings on LinkedIn, match roles to resume, get job posting alerts via SMS
 - 💼 **[GetHired.ai](public)** - to simplify your job hunt journey and help you focus on what's relevant
 - 📲 **[Tele2Cart](public)** - place your QCom orders from whatsapp/telegram
 - 🏠 **[Builderly](public)** - organizing the unorganized home renovation and design market
