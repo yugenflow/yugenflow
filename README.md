@@ -16,10 +16,10 @@
 
 - 🚀 **[WedSpace](private)** - weddings meet brands, helping hosts monetize their big day
 - 💎 **[Invest.me](public)** - your personal financial advisor
+- 💵 **[WhatThePay](public)** - get salary for a job posting on LinkedIn, match role relevance to your resume, get job posting alerts via SMS
 - ⭐ **[AfterLife](public)** - those we love never go anywhere
 - 💼 **[GetHired.ai](public)** - to simplify your job hunt journey and help you focus on what's relevant
 - 📲 **[Tele2Cart](public)** - place your QCom orders from whatsapp/telegram
-- 💵 **[WhatThePay](public)** - get salary for a job posting on LinkedIn, match role relevance to your resume, get job posting alerts via SMS
 - 🏠 **[Builderly](public)** - organizing the unorganized home renovation and design market
 - 👠 **[MyVirtualCloset](public)** - visualize yourself in the clothes you're thinking of purchasing
 - 🦉 **[SecondLife](public)** - their experiences, our learnings. A platform for gig work for the elderly
