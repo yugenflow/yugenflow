@@ -24,6 +24,7 @@
 - 👠 **[MyVirtualCloset](public)** - visualize yourself in the clothes you're thinking of purchasing
 - 🦉 **[SecondLife](public)** - their experiences, our learnings. A platform for gig work for the elderly
 - 👑 **[PaintRoyale](public)** - get your own royal portrait delivered to your doorstep, comes in various sizes
+- 💘 **[VDayInvite](https://github.com/yugenflow/vday-invite-gossip-girl)** - a roblox style interactive valentines invite experience for your partner
 
 ### Legacy Work
 - 🔄 **[Ajna](https://github.com/yugenflow/Ajna)** - face detection and feature enhancement using super resolution 
